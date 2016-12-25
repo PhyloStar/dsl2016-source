@@ -2,7 +2,7 @@ This repository contains the programs used in the experiments we performed
 for participating in the [DSL shared task 2016](http://ttg.uni-saarland.de/vardial2016/dsl2016.html).
 The models and experiments are described in the follwing paper:
 
-> Çöltekin, Çağrı and Taraka Rama (2016). “Discriminating similar languages: experiments with linear SVMs and neural networks.” In: Proceedings of the Third Workshop on NLP for Similar Languages, Varieties and Dialects. Osaka, Japan, (to appear).
+> Çöltekin, Çağrı and Taraka Rama (2016). “Discriminating similar languages: experiments with linear SVMs and neural networks.” In: Proceedings of the Third Workshop on NLP for Similar Languages, Varieties and Dialects. Osaka, Japan, 2016. http://web.science.mq.edu.au/~smalmasi/vardial3/pdf/VarDial302.pdf
 
 Bibtex:
 ```
